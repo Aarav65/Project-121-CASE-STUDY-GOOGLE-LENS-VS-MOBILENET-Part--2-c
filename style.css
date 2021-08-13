@@ -1,0 +1,60 @@
+body
+{
+    background-color: rgb(21, 226, 233);
+}
+
+ol h5
+{
+	background: seagreen;
+    padding: 13px;
+    border-radius: 20px;
+}
+
+li img
+{
+	border-radius: 30px;
+}
+
+.bob
+{
+	background: springgreen;
+	padding: 40px;
+	border-radius: 30px;
+	margin-top: 50px;
+	box-shadow: 20px 20px 40px orangered;
+}
+
+.bob3
+{
+	text-align: center;
+	color: royalblue;
+}
+
+.result
+{
+	box-shadow: 10px 10px 20px tomato;
+	letter-spacing: 3px;
+	background: slateblue;
+	border-radius: 40px;
+	margin-top:30px;
+	margin-bottom: 100px;
+	padding: 20px;
+	border: 3px solid cyan;
+}
+
+b
+{
+    color: violet;
+}
+
+.copy_right_footer {
+	position: fixed;
+	color: cyan;
+	bottom: 0;
+	width: 100%;
+	background-color: teal;
+	line-height: 3;
+	font-size: large;
+	text-align: center;
+	font-family: cursive;
+}
